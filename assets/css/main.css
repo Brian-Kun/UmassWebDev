@@ -286,7 +286,7 @@ a:before, a:after {
 	background-size: cover;
 }
 #services .fa {
-	color: #c0ed5d;
+	color: #fff;
 }
 #services hr {
 	display: block;
@@ -294,10 +294,10 @@ a:before, a:after {
 	border: 0;
 	margin: 3em 0;
 	padding: 0;
-	background-image: -webkit-linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
-	background-image: -moz-linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
-	background-image: -ms-linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
-	background-image: -o-linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
+	background-image: -webkit-linear-gradient(left, rgba(255, 255, 255, 0), #a5aeb1, rgba(255, 255, 255, 0));
+	background-image: -moz-linear-gradient(left, rgba(255, 255, 255, 0), #a5aeb1, rgba(255, 255, 255, 0));
+	background-image: -ms-linear-gradient(left, rgba(255, 255, 255, 0), #a5aeb1, rgba(255, 255, 255, 0));
+	background-image: -o-linear-gradient(left, rgba(255, 255, 255, 0), #a5aeb1, rgba(255, 255, 255, 0));
 	width: 50%;
 	left: 25%;
 	position: relative;
@@ -325,10 +325,10 @@ a:before, a:after {
 	border: 0;
 	margin: 3em 0;
 	padding: 0;
-	background-image: -webkit-linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
-	background-image: -moz-linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
-	background-image: -ms-linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
-	background-image: -o-linear-gradient(left, rgba(255, 255, 255, 0), #71c9d6, rgba(255, 255, 255, 0));
+	background-image: -webkit-linear-gradient(left, rgba(255, 255, 255, 0), #a5aeb1, rgba(255, 255, 255, 0));
+	background-image: -moz-linear-gradient(left, rgba(255, 255, 255, 0), #a5aeb1, rgba(255, 255, 255, 0));
+	background-image: -ms-linear-gradient(left, rgba(255, 255, 255, 0), #a5aeb1, rgba(255, 255, 255, 0));
+	background-image: -o-linear-gradient(left, rgba(255, 255, 255, 0), #a5aeb1, rgba(255, 255, 255, 0));
 	width: 50%;
 	left: 25%;
 	position: relative;
@@ -358,7 +358,7 @@ a:before, a:after {
 	line-height: 30px;
 	outline: 0;
 	color: #fff;
-	background-color: #67c5d3;
+	background-color: #a5aeb1;
 	-webkit-transition: all .3s;
 	-moz-transition: all .3s;
 	transition: all .3s;
