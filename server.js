@@ -29,7 +29,7 @@ app.use(flash()); // use connect-flash for flash messages stored in session
 app.set('view engine', 'ejs');
 
 app.get('/views/login', function(req, res){
-  res.render('views/login/index.ejs');
+  res.render('views/login.ejs');
 });
 
 require('./app/routes.js')(app, passport);
