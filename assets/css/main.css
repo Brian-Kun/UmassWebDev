@@ -14,12 +14,12 @@ body {
 
 ::-moz-selection {
  background: #f2c2c9;
- color: #a4003a;
+ color: #851400;
  text-shadow: none;
 }
 ::selection {
-	background: #16a085;
-	color: #a4003a;
+	background: #851400;
+	color: #851400;
 	text-shadow: none;
 }
 /*
@@ -91,7 +91,7 @@ body {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #38b5c9;
+  color: #8d1500;
   background-color: #fff;
   
   
@@ -108,14 +108,14 @@ body {
 	color: #666;
 }
 .navbar-brand .fa {
-	color: #38b5c9;
+	color: #8d1500;
 }
 .navbar-toggle {
 	border-color: transparent;
 	border: 0px solid transparent;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-	color: #38b5c9;	
+	color: #8d1500;	
 }
 a img {
 	background: white;
@@ -382,19 +382,19 @@ a:before, a:after {
 	padding: 30px 0;
 }
 #contact .fa {
-	color: #3ab7cb;
+	color: #8d1500;
 	margin-bottom: 10px;
 }
 #contact .btn {
 	font-weight: 500;
 	font-size: 18px;
 	margin-top: 50px;
-	background-color: #3ab7cb;
+	background-color: #8d1500;
 	color: #fff;
 	border: 0;
 }
 #contact .btn:hover, #contact .btn:focus {
-	background-color: #329cad;
+	background-color: #c21d00;
 	outline: 0px;
 }
 #greywrap {
@@ -452,7 +452,7 @@ a:before, a:after {
 	border-bottom: 1px dotted;
 }
 #footerwrap span.copyright a:hover {
-	color: #3ab7cb;
+	color: #8d1500;
 	text-decoration: none;
 }
 #footerwrap h4 {
@@ -467,7 +467,7 @@ ul.social-buttons li a {
 	color: #999;
 }
 ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active {
-	color: #3ab7cb;
+	color: #8d1500;
 }
 /* ==========================================================================
    Box Sections
