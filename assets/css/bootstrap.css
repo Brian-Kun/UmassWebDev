@@ -5003,8 +5003,8 @@ a.list-group-item-danger.active:focus {
   border-color: #bce8f1;
 }
 .panel-info > .panel-heading {
-  color: #31708f;
-  background-color: #d9edf7;
+  color: #fff;
+  background-color: #8d1500;
   border-color: #bce8f1;
 }
 .panel-info > .panel-heading + .panel-collapse .panel-body {

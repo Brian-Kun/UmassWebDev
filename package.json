@@ -1,0 +1,31 @@
+{
+  "name": "umasswebdev",
+  "version": "1.0.0",
+  "description": "Node.js background application for UMass Web Dev website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brian-Kun/UmassWebDev.git"
+  },
+  "author": "Andy Mei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brian-Kun/UmassWebDev/issues"
+  },
+  "homepage": "https://github.com/Brian-Kun/UmassWebDev#readme",
+  "dependencies": {
+    "express": "latest",
+    "morgan": "latest",
+    "cookie-parser": "latest",
+    "express-session": "latest",
+    "mongoose": "latest",
+    "ejs": "latest",
+    "body-parser": "latest",
+    "passport": "latest",
+    "passport-local": "latest",
+    "connect-flash": "latest"
+  }
+}
